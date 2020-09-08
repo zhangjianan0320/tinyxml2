@@ -1,0 +1,15 @@
+<?student info?>
+<SCHOOL>
+    <Base ID="0">
+        <age>18</age>
+    </Base>
+    <Base ID="1">
+        <age>20</age>
+    </Base>
+    <Base ID="2">
+        <age>20</age>
+    </Base>
+    <Base ID="3">
+        <age>88</age>
+    </Base>
+</SCHOOL>
